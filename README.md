@@ -1,1 +1,1 @@
-# Bu menim ilk yazdığım veb seyfemdir. Bundan böyük proyektlər etmək üzərə çalışram bu biraz yarımçığ ola bilər amma her gün yeni birçey öyrəndikcə tətbik edirəm bu proyektə.
+# Bu menim ilk yazdığım veb seyfemdir. Bundan böyük proyektlər etmək üzərə çalışram bu biraz yarımçığ ola bilər amma her gün yeni birşey öyrəndikcə tətbik edirəm bu proyektə.
