@@ -1,1 +1,2 @@
 # Bu menim ilk yazdığım veb seyfemdir. Bundan böyük proyektlər etmək üzərə çalışram bu biraz yarımçığ ola bilər amma her gün yeni birşey öyrəndikcə tətbik edirəm bu proyektə.
+bu proyekt mobil telefonlarin qiymetleri aksesuarlarin qiymetleri ve telefonlarin alisi satisi ucun dizayn edilmekdedir.
